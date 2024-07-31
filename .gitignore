@@ -1,0 +1,5 @@
+e-bank-be/.idea
+e-bank-be/djenv
+**/**/__pycache__
+
+.vscode
